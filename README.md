@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ ANONYMOUS-+MD-+★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+ANONYMOUS+TECH;RELEASED+DATE+22%2F6%2F2025." alt="Typing SVG" /></a>
  </p>
+ 
 <p align="center">
 <img src="https://files.catbox.moe/2i40zv.jpg"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{DeeCeeXxx}/count.svg" alt="DeeCeeXxx :: Visitor's Count" /></p>
@@ -21,7 +22,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
- ##MAXTECH_MD-V2 Deployment Methods
+ ##ANONMOUS-MD Deployment Methods
 
 ### 1. FORK THIS REPO
 
@@ -31,7 +32,7 @@
 
 ### SERVER 1 
  
-<a href="https://test-1-1m94.onrender.com"><img src="https://img.shields.io/badge/SESSION_ID-blue" alt="Click Here to Get Pair-Code" width="110"></a>      
+<a href="https://anonymous-session-id.onrender.com/"><img src="https://img.shields.io/badge/SESSION_ID-blue" alt="Click Here to Get Pair-Code" width="110"></a>      
 
 
 
